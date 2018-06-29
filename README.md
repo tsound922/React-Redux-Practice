@@ -1,4 +1,4 @@
-# React/Sass/Redux
+# React-Redux
 
 ## Getting Started
 
